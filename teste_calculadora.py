@@ -1,6 +1,6 @@
 import calculadora
 
 def main():
-  print(calculadora.somar(1, 2))
+  print(calculadora.somar(2, 2))
 
 main()
