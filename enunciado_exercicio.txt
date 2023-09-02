@@ -1,0 +1,11 @@
+0. Criar esse arquivo README.md e adicionar nomes e RAS de todos, em ordem alfabética e sem abreviações, torne permanente a seguir. Grupos de até 3 alunos
+
+1. Implementar a multiplicação e tornar permanente.
+
+2. Implementar o teste da multiplicação e tornar permanente e entregável.
+
+3. Implementar a divisão e tornar permanente.
+
+4. Implementar o teste da divisão e tornar permanente e entregável.
+
+5. Implementar o menu de opções.
